@@ -4,14 +4,14 @@ Flow: document/text -> AI extraction -> Log Deviation form -> AI impact & severi
 The left form is locked until the AI panel fills it (as the assignment requires); after that every field is editable.
 
 ## Run
-Backend (Python 3.10+):
+**/Backend (Python 3.10+):
     cd backend
     python -m venv venv && source venv/bin/activate      # Windows: venv\Scripts\activate
     pip install -r requirements.txt
     cp .env.example .env      # add GROQ_API_KEY (free at console.groq.com); set DATABASE_URL for PostgreSQL
     uvicorn main:app --reload --port 8000
 
-Frontend (Node 18+):
+**/Frontend (Node 18+):
     cd frontend
     npm install
     npm run dev               # http://localhost:5173
