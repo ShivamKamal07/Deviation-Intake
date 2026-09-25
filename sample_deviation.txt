@@ -1,0 +1,8 @@
+Subject: Reactor R-204 temperature excursion during Batch APX-24-118
+
+Hi QA team,
+On 18 Sept 2026 during the crystallization step of Ambroxol HCl (Batch APX-24-118) at the API Manufacturing Unit,
+the jacket temperature of reactor R-204 rose to 47 C at about 02:15 AM. The approved range in the BMR is 35-40 C.
+The excursion lasted around 25 minutes before the operator noticed the alarm and adjusted the chiller valve.
+Cause is not yet known; the chiller showed a pressure fluctuation earlier that shift. Batch is on hold pending assessment.
+Regards, Ramesh (Production Supervisor)
